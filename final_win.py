@@ -2,6 +2,8 @@ from PyQt5.QtCore import * # type: ignore
 from PyQt5.QtWidgets import * # type: ignore
 from instr import *
 
+# tambah disini
+
 class FinalWin(QWidget): # type: ignore
     def __init__(self, exp):
         super().__init__()
